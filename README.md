@@ -4,4 +4,4 @@ App de delivery sob demanda para empresas e pessoas utilizando React Native + Fi
 
 Play Store: https://play.google.com/store/apps/details?id=com.delivery.customer
 
-Apple Store: https://apps.apple.com/us/app/levo-agora-delivery/id1507986895?l=pt&ls=1
+Apple Store: https://apps.apple.com/br/app/levo-agora-delivery/id1507986895
